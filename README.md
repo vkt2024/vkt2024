@@ -1,4 +1,4 @@
-👋 Hi, I’m vkt2024! Welcome to my GitHub profile. Here’s a little bit about me:
+👋 Hi, I’m Vivek ! Welcome to my GitHub profile. Here’s a little bit about me:
 
 👀 I’m interested in Python coding and Generative AI projects.
 🌱 I’m currently learning and exploring the fascinating world of Python programming and AI.
